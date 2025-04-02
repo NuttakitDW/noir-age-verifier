@@ -1,5 +1,1 @@
-[person]
 age = 18
-
-[person.country]
-min_age = 18
